@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2db9f99825268140b94306a9d47d8f9, type: 3}
+  m_Name: RedPill
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -9041383, guid: 72f49dfddc462dc4680504bc570e2eaa, type: 3}
+  lifeAddOn: 5

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c453594aff09347479c84ddeef3dda51, type: 3}
+  m_Name: HeartSprites
+  m_EditorClassIdentifier: 
+  emptyHeart: {fileID: 1063320538, guid: a80a15c9b6a8b6545877c945d1322e9e, type: 3}
+  redHeart:
+    fullHeart: {fileID: -1881956280, guid: a80a15c9b6a8b6545877c945d1322e9e, type: 3}
+    halfHeart: {fileID: -1372337252, guid: a80a15c9b6a8b6545877c945d1322e9e, type: 3}
+  blackHeart:
+    fullHeart: {fileID: 750802613, guid: a80a15c9b6a8b6545877c945d1322e9e, type: 3}
+    halfHeart: {fileID: -787616629, guid: a80a15c9b6a8b6545877c945d1322e9e, type: 3}

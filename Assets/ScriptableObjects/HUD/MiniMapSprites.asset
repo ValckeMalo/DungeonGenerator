@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb7862620db260d4d8e11656be833eb5, type: 3}
+  m_Name: MiniMapSprites
+  m_EditorClassIdentifier: 
+  visitedRoom: {fileID: 21300000, guid: ea2a7408f46e6e448b38d6f3da2ff4b1, type: 3}
+  actualRoom: {fileID: 21300000, guid: 6943e701f3bdb6943951c2d3e7633bcc, type: 3}
+  nearestRoom: {fileID: 21300000, guid: c904c5b39bee40143ac4d01a33be16de, type: 3}
+  bossSkull: {fileID: 21300000, guid: 7be2082f926c73b4cad90f80a253613a, type: 3}
+  merchantCoin: {fileID: 21300000, guid: 0b6daa0a39fb68547a2f6cc30925d171, type: 3}

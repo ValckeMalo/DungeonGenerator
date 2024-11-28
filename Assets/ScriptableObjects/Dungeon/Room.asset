@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58562e5dae638f1448ec9cd80b4cd83d, type: 3}
+  m_Name: Room
+  m_EditorClassIdentifier: 
+  fourDoors: {fileID: 1994817218966404112, guid: 9a2c5508b7306b34ca12da1789bfd7de, type: 3}
+  threeDoors:
+  - prefab: {fileID: 6053275216250680918, guid: 1d9f88c9b8ee8f345ab3eea3c2f766a4, type: 3}
+    direction: 000000000100000002000000
+  - prefab: {fileID: 6139515891734772652, guid: 80b646899fc3a054aa1e74caa89bd504, type: 3}
+    direction: 000000000100000003000000
+  - prefab: {fileID: 8627060744783193247, guid: ddc48ab2da0d7f746b28e685fa634359, type: 3}
+    direction: 000000000300000002000000
+  - prefab: {fileID: 7279328944355324553, guid: 5e9b51e9a7cd4e146a9b19113077efa7, type: 3}
+    direction: 020000000100000003000000
+  twoDoors:
+  - prefab: {fileID: 8522371134502454517, guid: c4165f4141c898e4b949325e2f2782fe, type: 3}
+    direction: 0100000002000000
+  - prefab: {fileID: 2912247974453347708, guid: 3fe0da0a9cb25e84ab490440d73104a0, type: 3}
+    direction: 0000000001000000
+  - prefab: {fileID: 9198620045589172099, guid: 79800bac8f5e5c04abbdd8d7c9c4a484, type: 3}
+    direction: 0100000003000000
+  - prefab: {fileID: 8796181998652403949, guid: bb42c8ed6f5732f48af6389682d0d57b, type: 3}
+    direction: 0000000002000000
+  - prefab: {fileID: 5703294299660636273, guid: 33dea8359fdca9547910fee273691979, type: 3}
+    direction: 0000000003000000
+  - prefab: {fileID: 6867853528566702730, guid: ab2cc1f14c014ba46bc338782deb412b, type: 3}
+    direction: 0300000002000000
+  oneDoors:
+  - prefab: {fileID: 107786683556594059, guid: 448bda1cef0971c4080f3aa60e8e8f11, type: 3}
+    direction: 00000000
+  - prefab: {fileID: 5896291130720458629, guid: 4370c71f712da77478cf33e4fc607b5b, type: 3}
+    direction: 01000000
+  - prefab: {fileID: 6201047904468650390, guid: 1cb4957bd9fbfc045a2aa2a6223b6b16, type: 3}
+    direction: 02000000
+  - prefab: {fileID: 1903956195608879732, guid: a30cd5912b1040f4fb62b51482c2c788, type: 3}
+    direction: 03000000
